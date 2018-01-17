@@ -22,6 +22,7 @@ __all__ = [
     'airodump2db',
     'arp2db',
     'bro2db',
+    'bro2passive',
     'flow2db',
     'flowcli',
     'getmoduli',
